@@ -1,0 +1,20 @@
+{
+  "name": "online-test-app",
+  "version": "1.0.0",
+  "description": "Online test application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gokul Manoharan",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.5.8",
+    "validator": "^10.11.0"
+  }
+}
